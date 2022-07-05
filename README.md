@@ -1,21 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yousef Allam</h1>
 
-<!-- CONTACT INFO -->
-<h3 align="center">Connect with me</h3>
-<div align="center">
-	<a href="https://mailto:yousef.allam221b@gmail.com" target="blank"><img align="center"
-	  src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-	  alt="Gmail" height="30"/></a>
-	  <a href="https://www.linkedin.com/in/yousefallam221b/" target="blank"><img align="center"
-	  src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-	  alt="LinkedIn" height="30"/></a>
-	  <a href="https://wa.me/+01001097153" target="blank"><img align="center"
-	  src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
-	  alt="Number" height="30"/></a>
-</div>
-
-<br>
-
 <!-- Contributions -->
 <div align="center">
 	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=YousefAllam221b&theme=github-dark-blue&hide_border=true" alt="yousefallam221b" />
@@ -58,3 +42,19 @@
 <p align="center">
 	<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yousefallam221b&theme=nord&margin-w=20&rank=-?" alt="yousefallam221b" /></a>
 </p>
+
+<!-- CONTACT INFO -->
+<h3 align="center">Connect with me</h3>
+<div align="center">
+	<a href="https://mailto:yousef.allam221b@gmail.com" target="blank"><img align="center"
+	  src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+	  alt="Gmail" height="30"/></a>
+	  <a href="https://www.linkedin.com/in/yousefallam221b/" target="blank"><img align="center"
+	  src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+	  alt="LinkedIn" height="30"/></a>
+	  <a href="https://wa.me/+01001097153" target="blank"><img align="center"
+	  src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+	  alt="Number" height="30"/></a>
+</div>
+
+<br>
