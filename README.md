@@ -2,15 +2,15 @@
 
 <!-- Contributions -->
 <div align="center">
-	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=YousefAllam221b&theme=github-dark-blue&hide_border=true" alt="yousefallam221b" />
+	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=YousefAllam221b&count_private=true&theme=github-dark-blue&hide_border=true" alt="yousefallam221b" />
 </div>
 
 <br>
 
 <!-- STATS AND MOST LANGUAGES -->
 <div align="center">  
-	<img width="49%" height="auto" src ="https://github-readme-stats.vercel.app/api?username=yousefallam221b&show_icons=true&locale=en&theme=github-dark-blue&bg_color=FFFFFF00&hide_border=true" alt="yousefallam221b" >
-	<img width="49%" height="auto" src ="https://github-readme-stats.vercel.app/api/top-langs?username=yousefallam221b&show_icons=true&locale=en&layout=compact&theme=github-dark-blue&bg_color=FFFFFF00&hide_border=true" alt="yousefallam221b" >
+	<img width="49%" height="auto" src ="https://github-readme-stats.vercel.app/api?username=yousefallam221b&count_private=true&show_icons=true&locale=en&theme=github-dark-blue&bg_color=FFFFFF00&hide_border=true" alt="yousefallam221b" >
+	<img width="49%" height="auto" src ="https://github-readme-stats.vercel.app/api/top-langs?username=yousefallam221b&count_private=true&show_icons=true&locale=en&layout=compact&theme=github-dark-blue&bg_color=FFFFFF00&hide_border=true" alt="yousefallam221b" >
 </div>
 
 <br>
