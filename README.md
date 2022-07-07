@@ -2,7 +2,7 @@
 
 <!-- Contributions -->
 <div align="center">
-	<img align="center" src="http://github-readme-stats-ashen-chi.vercel.app?user=YousefAllam221b&theme=github-dark-blue&hide_border=true" alt="yousefallam221b" />
+	<img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=YousefAllam221b&theme=github-dark-blue&hide_border=true" alt="yousefallam221b" />
 </div>
 
 <br>
